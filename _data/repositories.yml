@@ -1,12 +1,6 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - minhn02
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - minhn02/Bezier
+  - minhn02/stm_gait_control
