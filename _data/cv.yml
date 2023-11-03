@@ -3,8 +3,6 @@
   contents:
     - name: Full Name
       value: Minh Nguyen
-    - name: Date of Birth
-      value: February 19 2002
 
 - title: Education
   type: time_table
