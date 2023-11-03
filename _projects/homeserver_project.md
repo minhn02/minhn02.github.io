@@ -7,7 +7,7 @@ importance: 1
 category: fun
 ---
 
-I was motivated to make a media server to watch [One Pace](https://onepace.net/), a edited version of One Piece that makes the 1000+ episodes go by quicker. Luckily, JPL has a Slack channel dedicated to giving away *free* stuff and I was lucky enough to snag some old computer parts. Although the parts were from 2014, they proved fast enough to download media and do video decoding (sometimes really slow so looking to upgrade soon).
+I was motivated to make a media server to watch [One Pace](https://onepace.net/), an edited version of One Piece that makes the 1000+ episodes go by quicker. Luckily, JPL has a Slack channel dedicated to giving away *free* stuff and I was lucky enough to snag some old computer parts. Although the parts were from 2014, they proved fast enough to download media and do video decoding (sometimes really slow so looking to upgrade soon).
 
 I'm not too certain on the actual specs as I got the parts second hand, but from what I can gather they are
 
@@ -17,9 +17,9 @@ I'm not too certain on the actual specs as I got the parts second hand, but from
 | Motherboard | [ASRock H81M-ITX](https://www.asrock.com/mb/Intel/H81M-ITX/) | ~2014 | Free:D (looking to upgrade because limited IO)|
 | Storage | 1TB Samsung SSD | 2020's | Bought
 
-I also had to buy a WIFI card and a power supply to make it fully functional.
+I also had to buy a WiFi card and a power supply to make it fully functional.
 
-At first it was sitting on my floor, but I had just bought 3D printer so I made a minimal case just to keep everything together
+At first it was sitting on my floor, but I had just bought a 3D printer so I made a minimal case just to keep everything together.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
