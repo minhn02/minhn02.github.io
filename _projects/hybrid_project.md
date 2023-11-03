@@ -2,7 +2,7 @@
 layout: page
 title: Hybrid Robotics Lab
 description: Multi-agent reinforcement learning
-img: 
+img: assets/img/proj_hybrid/hybrid_cover.jpg
 importance: 3
 category: research
 ---
