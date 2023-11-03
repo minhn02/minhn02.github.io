@@ -13,11 +13,11 @@ I'm not too certain on the actual specs as I got the parts second hand, but from
 
 | Component         | Model | Year Released | Notes |
 |--------------|-----------|------------| ------ |
-| CPU | [Intel i5-4460](https://ark.intel.com/content/www/us/en/ark/products/80817/intel-core-i54460-processor-6m-cache-up-to-3-40-ghz.html) | 2014 | Free :D (looking to upgrade because slow)
-| Motherboard | [ASRock H81M-ITX](https://www.asrock.com/mb/Intel/H81M-ITX/) | ~2014 | Free:D (looking to upgrade because limited IO)|
-| Storage | 1TB Samsung SSD | 2020's | Bought
-
-I also had to buy a WiFi card and a power supply to make it fully functional.
+| CPU | [Intel i5-4460](https://ark.intel.com/content/www/us/en/ark/products/80817/intel-core-i54460-processor-6m-cache-up-to-3-40-ghz.html) | 2014 | Free 😁 (looking to upgrade because slow)
+| Motherboard | [ASRock H81M-ITX](https://www.asrock.com/mb/Intel/H81M-ITX/) | ~2014 | Free 😁 (looking to upgrade because limited IO)|
+| Storage | [Samsung 870 SSD](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/870-evo-sata-2-5-ssd-1tb-mz-77e1t0b-am/) | 2020's | Bought
+| Power Supply | [SX500-LG](https://www.silverstonetek.com/en/product/info/power-supplies/SX500-LG/) | 2016 | Bought
+| Other | [TP-Link WiFi Card](https://www.tp-link.com/us/home-networking/pci-adapter/archer-t4e/) | 2020's | Motherboard doesn't have onboard WiFi
 
 At first it was sitting on my floor, but I had just bought a 3D printer so I made a minimal case just to keep everything together.
 
