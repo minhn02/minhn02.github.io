@@ -1,11 +1,11 @@
 ---
 layout: cv
-permalink: /cv/
-title: CV
+permalink: /resume/
+title: Resume
 nav: true
 nav_order: 3
 cv_pdf: MinhNguyenResume.pdf
-description: Minh Nguyen's CV/Resume
+description: Minh Nguyen's Resume
 toc:
   sidebar: left
 ---
