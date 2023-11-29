@@ -5,7 +5,7 @@ title: CV
 nav: true
 nav_order: 3
 cv_pdf: MinhNguyenResume.pdf
-description: See full PDF to the right
+description: Minh Nguyen's CV/Resume
 toc:
   sidebar: left
 ---
