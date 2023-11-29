@@ -4,8 +4,24 @@ layout: default
 <!-- _layouts/cv.html -->
 <div class="post">
 
-  <div class="embedded-pdf">
-    <embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://www.minh02.com/assets/pdf/MinhNguyenResume.pdf" width="140%" height="1000px">
+  <div class="embedded-pdf" id="pdfContainer" style="width: 100%; height: 75vh;">
+    <embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://www.minh02.com/assets/pdf/MinhNguyenResume.pdf" width="100%" height="100%">
   </div>
 
 </div>
+
+<script>
+  function adjustPdfHeight() {
+    var pdfContainer = document.getElementById('pdfContainer');
+    var windowHeight = window.innerHeight;
+
+    // Adjust the height of the container
+    pdfContainer.style.height = (windowHeight * 0.75) + 'px'; // 75% of the viewport height
+  }
+
+  // Adjust on load
+  window.onload = adjustPdfHeight;
+
+  // Adjust the height whenever the window is resized
+  window.onresize = adjustPdfHeight;
+</script>
