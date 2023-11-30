@@ -1,13 +1,13 @@
 ---
 layout: page
-title: NASA Jet Propulsion Labratory
+title: NASA Jet Propulsion Laboratory
 description: Power Distribution Systems and Optimal Control
 img: assets/img/proj_jpl/jpl_cover.jpg
 importance: 1
 category: research
 ---
 
-I had an 8 month long internship at the NASA Jet Propulsion Labratory robotics division working with the Steep Terrain Mobility team. There, I took ownership of the electrical system for an in-development rover and researched gait transition algorithms.
+I had an 8 month long internship at the NASA Jet Propulsion Laboratory robotics division working with the Steep Terrain Mobility team. There, I took ownership of the electrical system for an in-development rover and researched gait transition algorithms.
 
 ### Gait Transition Algorithms
 
