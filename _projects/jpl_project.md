@@ -3,7 +3,7 @@ layout: page
 title: NASA Jet Propulsion Laboratory
 description: Power Distribution Systems and Optimal Control
 img: assets/img/proj_jpl/jpl_cover.jpg
-importance: 1
+importance: 2
 category: research
 ---
 

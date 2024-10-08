@@ -24,4 +24,8 @@ layout: default
 
   // Adjust the height whenever the window is resized
   window.onresize = adjustPdfHeight;
+
+  document.addEventListener('DOMContentLoaded', function() {
+    adjustPdfHeight();
+  });
 </script>
