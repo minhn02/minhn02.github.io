@@ -26,4 +26,4 @@ Last year, I completed an 8-month internship at the NASA Jet Propulsion Laborato
 
 Prior to JPL, I was part of Space Enterprise at Berkeley for two years, working on [liquid rockets](https://www.youtube.com/watch?v=Hrbeg6FNlpY) and a [throttable rocket engine](https://www.youtube.com/watch?v=aFXYzkOWeu8).
 
-On the side, I indoor bouldering and continuously upgrade my home server.
+On the side, I enjoy indoor bouldering and continuously upgrade my home server.
