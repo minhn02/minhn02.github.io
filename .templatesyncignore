@@ -1,0 +1,25 @@
+# Paths actions-template-sync must NOT sync from al-folio (upstream).
+# This keeps each sync PR focused on framework / bugfix / QOL changes and
+# stops it from re-adding demo content or overwriting personalizations.
+# Syntax is gitignore-style. Anything NOT listed here still gets synced.
+
+# Site configuration (heavily personalized)
+_config.yml
+
+# Personal content
+_pages/
+_posts/
+_projects/
+_bibliography/
+_data/
+
+# Personal assets (framework assets like assets/js/, assets/css/ still sync)
+assets/img/
+assets/pdf/
+assets/json/
+
+# Customized layout
+_layouts/cv.liquid
+
+# Keep our fixed version of the sync workflow itself
+.github/workflows/sync.yml

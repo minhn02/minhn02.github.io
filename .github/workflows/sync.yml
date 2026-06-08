@@ -1,20 +1,32 @@
 name: Sync from template
 on:
-    # cronjob trigger
+  # monthly cronjob trigger (00:00 UTC on the 1st)
   schedule:
-  - cron:  "0 0 1 * *"
+    - cron: "0 0 1 * *"
   # manual trigger
   workflow_dispatch:
+
+# Required so the action can push the sync branch and open the PR.
+# NOTE: also enable "Allow GitHub Actions to create and approve pull requests"
+# under Settings -> Actions -> General -> Workflow permissions.
+permissions:
+  contents: write
+  pull-requests: write
+
 jobs:
   repo-sync:
     runs-on: ubuntu-latest
     steps:
-      # To use this repository's private action, you must check out the repository
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: actions-template-sync
-        uses: AndreasAugustin/actions-template-sync@v0.7.3
+        uses: AndreasAugustin/actions-template-sync@v2
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           source_repo_path: alshedivat/al-folio
           upstream_branch: master
+          # Paths listed in .templatesyncignore are skipped, so the PR only
+          # contains framework/QOL changes — never your content or config.
+          template_sync_ignore_file_path: .templatesyncignore
+          pr_title: "chore: sync with al-folio upstream"
+          pr_labels: sync
